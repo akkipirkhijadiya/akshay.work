@@ -55,10 +55,10 @@ A passionate **Flutter Developer** with deep expertise in building **cross-platf
 
 ## 📬 **Contact**
 
-- **Email**: akshay.eihub@gmail.com
-- **GitHub**: [github.com/akshaydev](https://github.com/akshaydev)
-- **Portfolio**: [akshay.github.io](https://akshay.github.io)
-- **Location**: [Your City, Country] (Remote Friendly)
+- **Email**: eih.akshay@gmail.com
+- **GitHub**: [github.com/akshaydev](https://github.com/akshaypirkhijadiya)
+- **Portfolio**: [akshay.work](https://akshaypirkhijadiya.github.io)
+- **Location**: [Surat, India] (Remote Friendly)
 
 ---
 
