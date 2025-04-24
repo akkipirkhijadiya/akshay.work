@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Akshay Talaviya
 
-A passionate **Flutter Developer** with deep expertise in building **cross-platform mobile and web applications** using **Flutter**, **Firebase**, and various integrations like **Stripe**, **PayPal**, and **gRPC**.
+I am a passionate mobile app and web developer with extensive experience in **Flutter** for building **cross-platform** mobile applications for **Android** and **iOS**. I also build responsive **web applications** using Flutter Web. I specialize in clean, high-performance code, UI/UX design, and real-time backend integrations with **Firebase**, **Node.js**, and **REST APIs**.
+
 
 ---
 
